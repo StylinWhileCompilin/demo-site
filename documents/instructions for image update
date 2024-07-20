@@ -1,0 +1,22 @@
+# Instructions for Updating Code with Your Own Images
+
+These instructions will guide you through the process of replacing the default images in the code with your own images.
+
+## Step 1: Prepare Your Images
+
+1. **Image Requirements:** Ensure your images meet the format and size requirements specified by the code (if any).
+
+2. **Naming Convention:** If the code references specific image filenames, make sure your images are named accordingly for easy replacement.
+
+## Step 2: Replace Images in the Code
+
+1. **Locate Image References:** Open the code files (e.g., `index.html`, `style.css`, `script.js`) where images are referenced or used.
+
+2. **Update Image URLs:**
+   - Replace existing image URLs with the URLs or paths to your own images.
+   - If using local files, ensure the paths are correct relative to the code file's location.
+
+### Example (HTML):
+
+```html
+<img src="path/to/your/image.jpg" alt="Your Image">

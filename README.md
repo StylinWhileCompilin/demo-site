@@ -9,3 +9,6 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 ## Notable Libraries and Technologies
 - **Pico.css**: Minimal CSS framework for styling. [Pico.css](https://picocss.com)
 - **Google Fonts**: Utilizing "Play" and "Titillium Web" fonts for typography. [Play](https://fonts.google.com/specimen/Play) and [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
+
+## Update Instructions
+Check out [this link](documents/instructions%20for%20image%20update) on how to update the website with your own images using HTML
